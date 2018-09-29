@@ -1,0 +1,4 @@
+E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\User\User.Register\bin\User.Register.dll
+E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\User\User.Register\bin\User.Register.pdb
+E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\User\User.Register\obj\Debug\User.Register.dll
+E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\User\User.Register\obj\Debug\User.Register.pdb

@@ -64,7 +64,7 @@ $('#btn-register').on('click', function () {
         var formdata = new FormData();
         formdata.append("usermodel", JSON.stringify(objmodel));
         $.ajax({
-            url: 'RegisterUser',
+            url: '/User/Register/RegisterUser',//User/Register/RegisterUser @@
             type: 'POST',
             data: formdata,
             contentType: false,
@@ -96,7 +96,7 @@ var CheckExistsUserName = function () {
         var $parent = $element.parent();
         $.ajax({
             contentType: 'application/json; charset=utf-8',
-            url: 'CheckUserName',
+            url: '/User/Register/CheckUserName',
             type: 'POST',
             data: JSON.stringify({ username: username }),
             dataType: 'json',

@@ -3,3 +3,7 @@ E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\Issue\Issue.Crea
 E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\Issue\Issue.Create\obj\Debug\Issue.Create.dll
 E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\Issue\Issue.Create\obj\Debug\Issue.Create.pdb
 E:\HocTap\HC(2018-2019)\HK_III\QL_QTPM_T5\Issue_Management_Main\Issue\Issue.Create\obj\Debug\Issue.Create.csprojResolveAssemblyReference.cache
+E:\Giang\Liên Thông\HocKy3\T5\Nhom4HC_T5\Issue\Issue.Create\bin\Issue.Create.dll
+E:\Giang\Liên Thông\HocKy3\T5\Nhom4HC_T5\Issue\Issue.Create\bin\Issue.Create.pdb
+E:\Giang\Liên Thông\HocKy3\T5\Nhom4HC_T5\Issue\Issue.Create\obj\Debug\Issue.Create.dll
+E:\Giang\Liên Thông\HocKy3\T5\Nhom4HC_T5\Issue\Issue.Create\obj\Debug\Issue.Create.pdb

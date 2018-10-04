@@ -46,6 +46,18 @@ namespace User.Register.Areas.User.Controllers
             return Json(result, JsonRequestBehavior.AllowGet);
         }
 
+
+        [HttpPost]
+        public ActionResult CheckCaptchaValidate(string captchaCode)
+        {
+            var codeSession = this.Session["CaptChaImageText"].ToString();
+            if (codeSession == captchaCode)
+            {
+                return Json(true, JsonRequestBehavior.AllowGet);
+            }
+            return Json(false, JsonRequestBehavior.AllowGet);
+        }
+
         [HttpGet]
         [OutputCache(NoStore=true,Duration=0,VaryByParam="None")]
         public FileResult GetCaptChaImage()
@@ -58,6 +70,7 @@ namespace User.Register.Areas.User.Controllers
             stream.Seek(0, SeekOrigin.Begin);
             return new FileStreamResult(stream, "image/png");
         }
+
 
         public string CreateMD5(string input)
         {
